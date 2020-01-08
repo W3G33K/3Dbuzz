@@ -1,0 +1,34 @@
+body {
+	background: #121217;
+	font: 13px/1.231 arial, helvetica, clean, sans-serif;
+	color: #fff;
+	line-height: 1.5em;
+	font-size: 14px;
+}
+
+.l-body-lower {
+	background: #12151d;
+	border-top: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+	color: #f08801;
+}
+
+.l-body,
+.c-downloads {
+	margin: auto;
+	max-width: 750px;
+}
+
+.l-body {
+	padding-bottom: 20px;
+}
+
+.c-downloads {
+	padding-top: 20px;
+}
+
+.c-series a {
+	color: #fff;
+}
