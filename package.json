@@ -1,0 +1,27 @@
+{
+	"name": "verify-3db-package",
+	"version": "1.0.0",
+	"description": "Validates and notifies of any archives not found from 3Dbuzz End of an Era package download.",
+	"private": true,
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/W3G33K/3Dbuzz.git"
+	},
+	"keywords": [
+		"3Dbuzz"
+	],
+	"author": {
+		"name": "Ryan K. Clark",
+		"email": "mail.w3geek@gmail.com",
+		"url": "https://twitter.com/W3Geek"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/W3G33K/3Dbuzz/issues"
+	},
+	"homepage": "https://github.com/W3G33K/3Dbuzz"
+}
